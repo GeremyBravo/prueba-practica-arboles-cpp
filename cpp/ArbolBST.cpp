@@ -330,3 +330,4 @@ void ArbolBST::mostrarReprobados() {
     cout << "=== estudiantes reprobados (nota < 7) ===" << endl;
     mostrarReprobados(raiz);
 }
+ 
